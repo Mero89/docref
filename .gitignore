@@ -99,3 +99,21 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+#database
+*.db
+
+# Sublime files
+*.sublime-project
+*.sublime-workspace
+
+# Pycharm folder
+.idea
+
+# Other files
+*.pdf
+*.xlsx
+*.xls
+*.docx
+*.doc
+*.csv
